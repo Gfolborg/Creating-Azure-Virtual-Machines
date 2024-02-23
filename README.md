@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://imgur.com/dRUt1rz.png" height="40%" width="40% alt="Microsoft Azure Logo"/>
 </p>
 
 <h1>Creating Virtual Machines on Azure</h1>
@@ -18,10 +18,11 @@ This tutorial outlines the creation and use of Azure Virtual Machines.<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Sign up for an Azure account - https://azure.microsoft.com/en-us/free/
+- Create a Resource Group
+- Search for Virtual Machines
+- Configure and Create the VM in Azure
+- Test virtual machine connectivity
 
 <h2>Deployment and Configuration Steps</h2>
 
