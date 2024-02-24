@@ -22,7 +22,7 @@ This tutorial outlines the creation and use of Azure Virtual Machines.<br />
 - Create a Resource Group
 - Search for Virtual Machines
 - Configure and Create the VM in Azure
-- Test virtual machine connectivity
+- Log on to the virtual machine
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -50,7 +50,7 @@ Create and name your resource group. In this example, the resource group was nam
 <br />
 
 <p>
-<img src="https://i.imgur.com/hsWzYdD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hsWzYdD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go back to the Azure menu and select Virtual Machine. There are other ways to find virtual machines such as typing it into the search bar above. On the next page, click create and select Azure Virtual Machine.
@@ -78,7 +78,7 @@ Name your virtual machine, select the region, availablility options, Zones and i
 <br />
 
 <p>
-<img src="https://i.imgur.com/xtxlb9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xtxlb9f.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Select a size for the virtual machine. The sizes have different CPU sizes and memory and each cost a different amount.
@@ -86,7 +86,7 @@ Select a size for the virtual machine. The sizes have different CPU sizes and me
 <br />
 
 <p>
-<img src="https://i.imgur.com/CIUPT7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CIUPT7i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a username and password, click the check box to confirm licensing.
