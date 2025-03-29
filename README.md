@@ -76,7 +76,7 @@ Configure your virtual machine by first selecting the resource group you created
 Name your virtual machine, select the region, availablility options and/or zones and image (Operationg System). The second image displays the most basic configuration for the virtual machine.
 </p>
 <br />
-<p>Note: Availability Zones is Azures way for providing redundancy. Two or more copies of the selected resource, in this case, the virtual machine, are stored in two separate locations. These could be geographic locations or a separate server racks within the same data center.  </p>
+<p><b><i>Note:</i></b>Availability Zones is Azures way for providing redundancy. Two or more copies of the selected resource, in this case, the virtual machine, are stored in two separate locations. These could be geographic locations or in separate server racks within the same data center.  </p>
 <br />
 
 <p>
